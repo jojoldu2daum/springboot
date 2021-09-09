@@ -9,6 +9,6 @@ public class CalculateTest {
     @Test
     public void add() {
         long sum = 1 + 2;
-        assertThat(sum).isEqualTo(4);
+        assertThat(sum).isEqualTo(3);
     }
 }
